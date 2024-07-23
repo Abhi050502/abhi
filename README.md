@@ -16,10 +16,9 @@ This project is a Railway Reservation System designed and developed with two dis
 - **Cancel Reservations**: Cancel existing reservations and update seat availability.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Design**: Figma for initial design and prototyping
+- **Frontend**: GUI 
+- **Backend**: c++
+- **Database**: SQL
 
 ## Installation
 
